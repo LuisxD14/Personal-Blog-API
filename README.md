@@ -1,1 +1,1 @@
-# Personal-BLog-API
+# Personal-Blog-API
